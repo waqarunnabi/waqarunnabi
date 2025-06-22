@@ -7,10 +7,11 @@ I'm a passionate **Full Stack Web Developer** and **Digital Marketing Specialist
 ## 💻 Tech Stack
 
 ### Frontend
-- **React.js** - Building dynamic and interactive user interfaces
+
 - **Next.js** - Full-stack React framework for production-ready applications
 - **TypeScript** - Type-safe JavaScript for better development experience
 - **JavaScript** - The language that powers the modern web
+- **React.js** - Building dynamic and interactive user interfaces
 
 ### Backend & APIs
 - **Node.js** - Server-side JavaScript runtime
