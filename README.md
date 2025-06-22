@@ -8,8 +8,8 @@ I'm a passionate **Full Stack Web Developer** and **Digital Marketing Specialist
 
 ## 🎓 Education
 
-- 🎓 **BCom** – Business, Finance & Economics
 - 🎓 **MCS** – Master of Computer Science
+- 🎓 **BCom** – Business, Finance & Economics
 - 📚 **Professional Certifications & Courses** in:
   - Full Stack Development
   - Search Engine Optimization (SEO)
